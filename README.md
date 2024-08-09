@@ -28,18 +28,6 @@ virtualenv envname
 
 ```
 
---> Activate the virtual environment :
-```bash
-envname\scripts\activate
-
-```
-
---> Install the requirements :
-```bash
-pip install -r requirements.txt
-
-```
-
 #
 
 ### Running the App
